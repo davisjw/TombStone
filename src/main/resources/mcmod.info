@@ -1,0 +1,21 @@
+[
+{
+    "modid": "TombStone",
+    "name": "TombStone",
+    "description": "Creates tombstones with death message on player death.",
+    "version": "1.0",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+    "MadMaxJD"
+    ],
+    "credits": "chessmaster42 (orig), cyanobacterium (upd), pahimar (letsmod)",
+    "logoFile": "",
+    "screenshots": [
+    ],
+    "parent": "",
+    "dependencies": [
+    ]
+}
+]

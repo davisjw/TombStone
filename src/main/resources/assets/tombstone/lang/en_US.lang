@@ -1,0 +1,4 @@
+# Configuration
+container.inventory=TombStone
+block.tombstone=TombStone Block
+tco.tombstonetileentity=TombStone Tile Entity
